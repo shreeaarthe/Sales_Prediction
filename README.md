@@ -49,6 +49,8 @@ Sales Graphs:
 
 Plot sales data for specific months and quarters to visualize trends over time.
 Generate graphs for sales of particular items from specific stores.
+
+
 Advanced Prediction:
 
 Implement functions to predict future sales for 31 days ahead using the trained LSTM model.
