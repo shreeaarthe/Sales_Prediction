@@ -56,3 +56,42 @@ Advanced Prediction:
 Implement functions to predict future sales for 31 days ahead using the trained LSTM model.
 Ensure predictions are made by feeding the model sequential data and predicting step-by-step.
 
+"SALES GRAPH OF EVERY YEAR"
+
+
+![111111111111111](https://github.com/user-attachments/assets/7ca5dcd6-6cd6-4eb6-9eb9-320d1365f222)
+
+
+"SALES GRAPH FOR EACH QUATER FROM 2013 TO 2017"
+
+![33333333333](https://github.com/user-attachments/assets/46ada0c5-20ad-4e26-9eeb-0c6a507663a8)
+
+
+"SALES GRAPH FOR PARTICULAR MONTH FOR EACH YEAR"
+
+![222222](https://github.com/user-attachments/assets/35978d9e-e28c-4d3d-805c-18f8205ffb3a)
+
+
+"SALES GRAPH FOR PARTICULAR ITEM FOR EACH QUATER"
+
+![44444444444](https://github.com/user-attachments/assets/6a26aea2-212e-4c5d-8120-b60e97b6926a)
+
+"SALES PREDICTION GRAPH FOR A PARICULAR ITEM FROM A PARTICULAR STORE FOR NEXT YEAR"
+
+![55555](https://github.com/user-attachments/assets/3bf114ce-266a-4796-abd3-3b51d09795a7)
+
+![6666666](https://github.com/user-attachments/assets/ca9e3f93-91e5-4559-ad68-293f17713329)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
